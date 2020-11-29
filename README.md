@@ -1,8 +1,8 @@
-## About
+## تم صنع البوت من قبل اخوكم محمد اتمنى تدعموني حتى اسوي بعد بوتات
 
-> A dedicated music bot example project for Spexz made by iCrawl
 
-This open sourced project is a dedicated example tutorial for our community's content, feel free to use and modify as good as you like. Written with [discord.js](https://discord.js.org/#/) and [v12 (stable)](https://discordjs.guide/additional-info/changes-in-v12.html) as the version.
+هذا المشروع مفتوح المصدر . هو مثال تعليمي مخصص لمحتوى مجتمعنا ، لا تتردد في استخدامه وتعديله كما تريد. كتب بلغة الجافا سكربت الاصدار الاخير 
+
 
 ## Features
 * Full playback control
@@ -20,30 +20,3 @@ This open sourced project is a dedicated example tutorial for our community's co
 "simple-youtube-api": "^5.2.1",
 "ytdl-core": "^3.2.0"
 ```
-
-## Getting started with Glitch
-
-1.  Create your bot account at **[Discord Developer Portal](https://discord.com/developers)**, get the token, and invite him to your server
-2.  Go to **[Glitch.com](https://glitch.com)**, click **New Project**, then choose **`Clone from Git Repo`** button (we recommend you to make a Glitch account before doing this)
-3.  Fill the pop-up column with **`https://github.com/SpexzYT/Spexz-Music-Bot.git`** at the field, then click **`OK`**
-4.  Change the project's name to whatever you want (optional)
-5.  Rename the **`.env_example`** to **`.env`** instead, then specify the Prefix, Bot Token, and the YouTube API v3 Key (watch [this video](https://youtu.be/-5ptk-Klfcw?t=69) for the tutorial of getting the youtube key). Don't forget with the **`PROJECT_DOMAIN`**'s value, match this value with the name of your Glitch bot project
-6.  And your Discord music bot should be ready to use!
-
-_If you have made any changes to the code, don't forget to restart the bot by typing **`refresh`** at the **`Tools > Terminal`** button._
-
-**[Tutorial Video](https://www.youtube.com/watch?v=FLyEh0nJzZ4&t=252s)
-
-## Contributing
-
-1.  Fork it!
-2.  Create your feature branch: `git checkout -b my-new-feature`
-3.  Commit your changes: `git commit -am "Add some feature"`
-4.  Push to the branch: `git push origin my-new-feature`
-5.  Submit a pull request :D
-
-## Author
-
-1.  **Discord.js Music Bot** © [iCrawl](https://github.com/iCrawl)
-2.  Authored, maintained by iCrawl. And modified by Spexz
-3.  This work is licensed under a <a rel="license" href="https://github.com/zhycorp/music-bot-example/blob/master/LICENSE">GNU Affero General Public License</a>.
